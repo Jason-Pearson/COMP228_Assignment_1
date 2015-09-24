@@ -39,7 +39,7 @@ public class Driver {
 		postalCode = input.nextLine(); // user input to local variable -
 		patient.setPostalCode(postalCode); // - set Patient class variable
 		
-		patient.getPatientInfo(); //display the method from Patient class
+		patient.getPatientInfo(); //display this display method from Patient class
 	}
 
 }
